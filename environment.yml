@@ -6,6 +6,10 @@ dependencies:
     - scipy
     - numpy
     - scikit-learn
+    - scikit-image
     - matplotlib
     - pandas
     - thinc
+    - opencv-python
+    - pillow
+    - cython
