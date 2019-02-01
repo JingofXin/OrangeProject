@@ -10,5 +10,4 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - opencv-python
-    - pillow
+
