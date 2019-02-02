@@ -1,1 +1,2 @@
 python -m ipykernel install --user --name=JingofXin
+jupyter contrib nbextension install --user
